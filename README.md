@@ -7,8 +7,11 @@ You just need to download the project to unity and open “MainScene” and run 
 
 ## Controls
 W/Up Arrow: Drive forward
+
 A/left arrow: Move left
+
 S/back arrow: Brake; keep holding to go back
+
 D/right arrow: Move right
 
 ## Assets
